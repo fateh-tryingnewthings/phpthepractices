@@ -1,6 +1,5 @@
-  ============================
    WHY LEARN PHP? & HOW IT WORKS
-  ============================
+
   - PHP stands for Hypertext Preprocessor
   - PHP is a server-side scripting language.
   - PHP executes entirely on the server unlike HTML that run on the client's browser

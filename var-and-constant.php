@@ -1,4 +1,14 @@
 <?php
+/*
+  ======================================================
+  TUTORIAL #4: VARIABLES & CONSTANTS
+  ======================================================
+  - Variables start with a dollar sign: $
+  - Must start with a letter or underscore, no spaces or special chars.
+  - Variables can be overridden at any point.
+  - Constants are defined using: define('NAME', 'value')
+  - Constants cannot be redefined or changed throughout the script.
+*/
 define('NAME', 'Mario');
 
 $name = 'Yoshi';

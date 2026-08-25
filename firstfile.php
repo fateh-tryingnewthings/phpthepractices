@@ -1,6 +1,16 @@
 <?php
-// Basic echo script
-echo "Hello, Ninjas!";
+/*
+  ======================================================
+  TUTORIAL #3: YOUR FIRST PHP FILE
+  ======================================================
+  - PHP tags: <?php ... ?>
+  - 'echo' outputs strings/data to the browser.
+  - Every command must end with a semicolon (;).
+  - PHP can be embedded directly inside HTML documents.
+*/
+
+// Basic echo statement
+// echo 'hello, ninjas';
 ?>
 
 <!DOCTYPE html>
